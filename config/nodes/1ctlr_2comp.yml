@@ -34,6 +34,6 @@ overcloud_nodes:
 network_isolation: true
 network_isolation_type: 'single-nic-vlans'
 topology: >-
-  --compute-scale 3
+  --compute-scale 2
   --control-scale 1
 
