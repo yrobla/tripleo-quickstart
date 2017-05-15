@@ -23,7 +23,7 @@ overcloud_nodes:
     flavor: control
     virtualbmc_port: 6230
 
- - name: compute_0
+  - name: compute_0
     flavor: compute
     virtualbmc_port: 6233
 
